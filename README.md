@@ -12,4 +12,8 @@ Temp Änderung mit Buttons +/- 1°C Pro Click
 
 Anzeige Ist/Soll Temp im Mittel Button. I = Ist, S = Soll
 
-![alt text](https://www.bilder-upload.eu/upload/f30b2e-1601120586.png)
+
+
+Anzeige 1
+
+<img src="https://www.bilder-upload.eu/upload/0d35bb-1601123332.jpg" width="30%" />
