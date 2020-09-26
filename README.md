@@ -17,3 +17,10 @@ Anzeige Ist/Soll Temp im Mittel Button. I = Ist, S = Soll
 Anzeige 1
 
 <img src="https://www.bilder-upload.eu/upload/0d35bb-1601123332.jpg" width="30%" />
+
+
+
+
+Todo:
+
+Value Anzeige: Aus und Ein Schaltbar, Fertigstellen
