@@ -4,7 +4,7 @@ Thermostat Steuereung MAX EQ3
 
 Buttons Mode: Auto/Manuell/Boost
 
-Value Anzeige: Aus und Ein Schaltbar (Noch ohne Funktion)
+Value Anzeige: Aus und Ein Schaltbar
 
 Value Anzeige: Als progress bar
 
@@ -16,7 +16,7 @@ Anzeige Ist/Soll Temp im Mittel Button. I = Ist, S = Soll
 
 Anzeige 1
 
-<img src="https://www.bilder-upload.eu/upload/0d35bb-1601123332.jpg" width="30%" />
+<img src="https://www.bilder-upload.eu/upload/36dad3-1601204914.jpg" width="30%" />
 
 
 
