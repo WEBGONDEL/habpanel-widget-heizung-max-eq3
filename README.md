@@ -23,4 +23,4 @@ Anzeige 1
 
 Todo:
 
-Value Anzeige: Aus und Ein Schaltbar, Fertigstellen
+ <s>Value Anzeige: Aus und Ein Schaltbar, Fertigstellen </s>
